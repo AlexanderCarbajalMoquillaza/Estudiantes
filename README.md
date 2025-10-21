@@ -1,6 +1,4 @@
-# ZTRACK - Prueba Técnica (Plantilla)
-
-Plantilla base para la prueba técnica descrita en el PDF de ZGROUP.
+# ZTRACK
 
 ## Tecnologías
 - Backend: FastAPI, Motor (MongoDB async)
@@ -34,9 +32,4 @@ ztrack/
 - `AI_USAGE.md` -> documento para explicar uso de IA
 - `backend/app/` -> código backend
 - `frontend/` -> código frontend
-
-## Sugerencias para la entrega
-- Subir a GitHub.
-- Invitar a `ztrack@zgroup.com.pe` o `ztrackperu`.
-- Enviar correo con asunto: "Prueba Técnica Completada" y los datos solicitados.
 
